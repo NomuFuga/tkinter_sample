@@ -1,2 +1,2 @@
 import tkinter as tk
-print(tk.TkVersion 1)
+print(tk.TkVersion 11)
